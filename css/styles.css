@@ -68,7 +68,6 @@ p {
 
 .card-img{
     max-width: 100%;
-    padding:0px;
     object-fit:none;
     border-radius: 0%;
 }
